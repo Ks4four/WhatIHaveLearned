@@ -7,5 +7,6 @@
 Yes you can crop your commission artwork to different ratios. But the question is for the ratio of the final artwork artists give you.
 #### Does 16:9 photographically ugly?
 > My opinion:
-> Possibly happened when you tried to make only **one character** and you need to show its full body. https://danbooru.donmai.us/posts?page=16&tags=ratio%3A16%3A9+solo
+> Possibly happened when you tried to make only **one character** and you need to show its full body.  
+> [Danbooru | ratio:16:9 solo](https://danbooru.donmai.us/posts?page=16&tags=ratio%3A16%3A9+solo)  
 > 16:9 is more liked for movies, and the composition is mostly concluded multi characters.
